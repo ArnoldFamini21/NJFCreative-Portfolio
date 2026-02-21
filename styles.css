@@ -724,11 +724,14 @@ main {
     box-shadow: 0 10px 40px rgba(198, 133, 234, 0.1);
 }
 
-.video-item video {
+.video-item video,
+.video-item iframe {
     width: 100%;
     display: block;
     border-radius: 16px 16px 0 0;
     background: #000;
+    border: none;
+    aspect-ratio: 16/9;
 }
 
 .video-label {
