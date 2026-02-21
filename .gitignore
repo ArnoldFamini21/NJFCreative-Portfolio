@@ -1,0 +1,7 @@
+# Large files exceeding GitHub 100MB limit
+Videos/Giving Back.mov
+Programs/Souvenir Program for Church 70th Anniversary.pdf
+
+# System files
+.DS_Store
+.gemini/
