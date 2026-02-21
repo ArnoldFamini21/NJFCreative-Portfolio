@@ -490,6 +490,13 @@ main {
     margin-bottom: 12px;
 }
 
+.portfolio-card .custom-icon {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    border-radius: 12px;
+}
+
 .portfolio-card h3 {
     font-size: 0.95rem;
     font-weight: 500;
@@ -1000,6 +1007,11 @@ footer p {
 
     .portfolio-card .card-icon {
         font-size: 2rem;
+    }
+
+    .portfolio-card .custom-icon {
+        width: 48px;
+        height: 48px;
     }
 
     .portfolio-card h3 {
